@@ -1,0 +1,30 @@
+/* Digital Ad Quest CSS : Conditional Loads On Admin Page*/
+.daq-tss-dashboard{
+	padding:20px;
+	margin-top:15px;
+	border-radius:4px;
+	border:1px solid #FFF;
+	width:70%;
+	float:left
+}
+.daq-tss-th-margin{
+	margin-bottom:10px
+}
+.daq-tss-sidebar{
+	width:20%; 
+	float:left; 
+	margin-left:20px; 
+	text-align:center; 
+	margin-top:15px; 
+	background-color:#FFFFFF; 
+	border-radius:4px; 
+	padding:25px
+}
+.daq-tss-text-justify{
+	text-align:justify
+}
+.daq-tss-width-100{
+	width:100%
+}
+.daq-tss-input-width{ min-width:103px !important}
+.daq-tss-orange-color{color:#FF6600}
